@@ -1,1 +1,11 @@
-
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: rgb(113, 218, 57);
+            color:rgb(44, 10, 77): var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px 20px;
+}
+h1{
+    color: rgb(104, 31, 177);
+}
